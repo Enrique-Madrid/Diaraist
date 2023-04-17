@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track del scrollbar */
+::-webkit-scrollbar-track {
+  background: rgb(49, 46, 129);
+  border-radius: 6px;
+}
+
+/* Handle del scrollbar */
+::-webkit-scrollbar-thumb {
+  background: rgb(255, 255, 255);
+  border-radius: 6px;
+}
+
+/* Handle del scrollbar al hacer hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #fff;
+}
